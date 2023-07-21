@@ -294,3 +294,6 @@ inicio = fila*columna
 // for (let i = inicio; i >=1; i-=1){
 //     console.log(i.toString())
 // }
+
+
+// strings
