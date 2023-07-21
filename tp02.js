@@ -297,3 +297,5 @@ inicio = fila*columna
 
 
 // strings
+
+11.
